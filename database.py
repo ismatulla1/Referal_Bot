@@ -1,12 +1,6 @@
 # database.py
 import aiosqlite
 
-import aiosqlite
-import os
-
-DB_NAME = os.getenv("DB_PATH", "referal.db")  # Render disk yoki lokal
-
-# keyingi kod o‘zgarmaydi
 
 
 DB_NAME = "referal.db"
