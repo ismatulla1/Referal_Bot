@@ -73,3 +73,4 @@ if __name__ == "__main__":
         run_webhook()
     else:
         asyncio.run(run_polling())
+
